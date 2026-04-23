@@ -90,7 +90,8 @@ Stores products included in each order.
 goit-rdb-hw-02/
 │
 ├── README.md
-├── schema.sql
+├── goit-rdb-hw-02.sql
+├── goit-rdb-hw-02.sql.mwb
 └── screenshots/
     ├── p1_1nf.png
     ├── p2_2nf.png
